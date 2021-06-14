@@ -7,6 +7,8 @@
 #### A guide covering LiDAR including the applications, libraries and tools that will make you better and more efficient with LiDAR development.
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+# Table of Contents
 
 1. [LiDAR Learning Resources](https://github.com/mikeroyal/LiDAR-Guide#lidar-learning-resources)
 
@@ -26,6 +28,7 @@
 </p>
 
 # LiDAR Learning Resources
+[Back to the Top](https://github.com/mikeroyal/LiDAR-Guide#table-of-contents)
 
 [Introduction to Lidar Course - NOAA](https://coast.noaa.gov/digitalcoast/training/intro-lidar.html)
 
