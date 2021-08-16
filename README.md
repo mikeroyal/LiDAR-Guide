@@ -8,6 +8,11 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/121950830-fb0b7380-cd0e-11eb-8b58-c23706b33c29.png">
+  <br />
+</p>
+ 
 # Table of Contents
 
 1. [LiDAR Learning Resources](https://github.com/mikeroyal/LiDAR-Guide#lidar-learning-resources)
@@ -22,10 +27,6 @@
 
 6. [MATLAB Development](https://github.com/mikeroyal/LiDAR-Guide#matlab-development)
 
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/121950830-fb0b7380-cd0e-11eb-8b58-c23706b33c29.png">
-  <br />
-</p>
 
 # LiDAR Learning Resources
 [Back to the Top](https://github.com/mikeroyal/LiDAR-Guide#table-of-contents)
